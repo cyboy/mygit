@@ -3,8 +3,4 @@ some modify...
 
 dev change here
 
-<<<<<<< HEAD
 now is master change here
-=======
-now is csh change here
->>>>>>> csh
