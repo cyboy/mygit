@@ -8,5 +8,9 @@ now is master change here
 
 another one change here (dev)
 
+<<<<<<< HEAD
 issue-404
+=======
+
+>>>>>>> dev
 stash here
